@@ -7,7 +7,8 @@
 
 int main() {      
 
-        if (true) { // проверка условия
+        bool a = true;
+        if (a) { // проверка условия
             cout << "Hello" << endl;     
         }    
 
